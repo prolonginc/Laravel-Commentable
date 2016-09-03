@@ -1,9 +1,9 @@
 {
-    "name": "draperstudio/laravel-commentable",
+    "name": "prolonginc/laravel-commentable",
     "type": "library",
     "description": "Commentable Polymorphic Eloquent Models for for Laravel 5",
     "keywords": [
-        "draperstudio",
+        "prolonginc",
         "laravel-commentable"
     ],
     "homepage": "https://github.com/DraperStudio/laravel-commentable",
